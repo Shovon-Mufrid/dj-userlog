@@ -1,0 +1,5 @@
+Django==4.2.4
+djangorestframework==3.14.0
+django-filter==21.1
+twine
+setuptools
